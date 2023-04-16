@@ -6,7 +6,7 @@ int main(void)
 {
  char x=get_char("x: ");
  char y=get_char("y:  ");
- printf("a: ,x+y");
+ char sum=printf sum ("x+y")
 
 
 
