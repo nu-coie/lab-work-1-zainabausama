@@ -2,27 +2,24 @@
 #include <cs50.h>
 
 int main(void)
+
 {
-    // Step ( 1 ) : Prompt the user for Pyramid Size
+int num = get_int("num : ");
+}
+{
 
-    
+for (x = 0 ;x < num ; x++);
+}
+for (y = 0 ; y<=x ; y++)
 
-    // Step ( 2 ) : Draw the Pyramid (Hint* : Use nested for loop)
-     
+{
+    printf("#");
+
+}
+printf("\n");
 }
 
 
 
 
-/*
 
-This is what the output should look like. :
-./pyramid
-Size: 4
-   #
-  ##
- ###
-####
-
-
-*/
