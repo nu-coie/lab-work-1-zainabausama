@@ -6,7 +6,7 @@ int main(void)
 int num;
 for (num = get_int("num: ")
 
-int i=(i==0,i<num,i++);
+int i=(i==0;i<num;i++);
 printf("#");
 }
 
