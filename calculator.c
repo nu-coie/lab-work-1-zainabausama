@@ -6,7 +6,7 @@ int main(void)
 {
  char x=get_char("x: ");
  char y=get_char("y:  ");
- char a=get_char("x+y");
+ char a=get_char("x %c+y%c ");
 
 
 
