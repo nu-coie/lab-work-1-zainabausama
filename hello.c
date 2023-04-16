@@ -1,12 +1,6 @@
 #include <stdio.h>
-
+#include <cs50>
 int main(void)
 {
-  
-  // Step ( 1 ) : Print Hello, World
-  
-  
-  
-  //Step ( 2 ) : Print Hello, Your Name
-
+  printf("hello,world\n");
 }
