@@ -3,26 +3,14 @@
 
 int main(void)
 {
-    // Step ( 1 ) : Prompt the user for Pyramid Size
-
-    
-
-    // Step ( 2 ) : Draw the Pyramid (Hint* : Use nested for loop)
-     
+int count;
+for(i)
 }
 
 
 
 
-/*
-
-This is what the output should look like. :
-./pyramid
-Size: 4
-   #
-  ##
- ###
-####
 
 
-*/
+
+
