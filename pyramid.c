@@ -4,7 +4,8 @@
 int main(void)
 {
 int count;
-for(i)
+for(int i ||0,i<count,i++);
+printf("#");
 }
 
 
