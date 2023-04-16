@@ -2,16 +2,22 @@
 #include <cs50.h>
 
 int main(void)
+
 {
-int num;
-for (num = get_int("num: ")
-
-int i=(i==0;i<num;i++);
-printf("#");
+int num = get_int("num : ");
 }
+{
 
+for (x = 0 ;x < num ; x++);
+}
+for (y = 0 ; y<=x ; y++)
 
+{
+    printf("#");
 
+}
+printf("\n");
+}
 
 
 
