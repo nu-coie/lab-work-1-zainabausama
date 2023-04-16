@@ -4,9 +4,9 @@
 
 int main(void)
 {
- char x=get_char("x: ");
- char y=get_char("y:  ");
- char sum=printf sum ("x+y")
+ int x=get_int("x: ");
+ int y=get_int("y:  ");
+ printf("a %i,x+y);
 
 
 
