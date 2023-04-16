@@ -4,10 +4,8 @@
 int main(void)
 {
 int num;
-do
-{num = get_int("num: ");
+for (num = get_int("num: ")
 
-}
 int i=(i==0,i<num,i++);
 printf("#");
 }
